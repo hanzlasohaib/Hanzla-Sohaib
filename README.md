@@ -7,8 +7,19 @@ AI • Full Stack • FastAPI • React • Python
 </h3>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=08FDD8&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=08FDD8&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+in+Progress;Full+Stack+Developer;React+%7C+FastAPI+%7C+Python;Building+Modern+Web+Applications;Always+Learning+🚀" />
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hanzlasohaib&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/hanzlasohaib?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/hanzlasohaib?style=for-the-badge"/>
 
 </p>
 
@@ -20,8 +31,11 @@ AI • Full Stack • FastAPI • React • Python
 
 💻 Passionate about **Artificial Intelligence**, **Full Stack Development**, and **Backend Engineering**.
 
+## 🚀 Current Focus
+
+- 🎓 NUML LMS (Final Year Project)
 - 🤖 Building AI-powered applications with Python & FastAPI
-- ⚛️ Developing modern React applications
+- ⚛️ Developing modern React + FastAPI applications
 - 🔐 Working with JWT, OAuth, REST APIs, PostgreSQL & MongoDB
 - 🌱 Currently learning Docker, Cloud Deployment and System Design
 - 🎯 Looking for Software Engineer, AI Engineer and Full Stack roles
@@ -34,23 +48,29 @@ AI • Full Stack • FastAPI • React • Python
 
 **Aug 2025 – Oct 2025**
 
-- Web application development
-- REST API integration
-- Debugging & testing
-- Git/GitHub collaboration
-- Modern software engineering practice
+- Developed web applications
+- Integrated REST APIs
+- Debugged production issues
+- Collaborated using Git workflows
+- Participated in testing and code reviews
+
+---
+
+## 📜 Certifications
+
+- 🐍 Advanced Python Programming — NAVTTC (2026)
 
 ---
 
 # 🏆 Achievements
 
-🥈 Top 8 Finalist
+🥈 **AI Hackathon 2025**
 
-**AI Hackathon 2025**
+Top 8 Finalist
 
-Punjab University College of Information Technology (PUCIT)
+Punjab University College of Information Technology (PUCIT) May 17–18, 2025
 
-May 17–18, 2025
+Competed against teams from universities across Pakistan.
 
 ---
 
@@ -164,47 +184,14 @@ React • PHP • MySQL
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hanzlasohaib&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/hanzlasohaib?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/hanzlasohaib?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hanzlasohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlasohaib&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hanzlasohaib&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/hanzlasohaib/hanzlasohaib/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/hanzlasohaib/Hanzla-Sohaib/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-```
 
 ---
 
@@ -268,6 +255,6 @@ not create them.
 
 ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
-
+I'm always open to collaborating on exciting AI and Full Stack projects.
+Feel free to connect with me or explore my repositories.
 </h3>
