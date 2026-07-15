@@ -33,9 +33,9 @@ AI • Full Stack • FastAPI • React • Python
 
 ## 🚀 Current Focus
 
-- 🎓 NUML LMS (Final Year Project)
+- 🎓 NUML Management System (Final Year Project)
 - 🤖 Building AI-powered applications with Python & FastAPI
-- ⚛️ Developing modern React + FastAPI applications
+- ⚛️ Developing modern React/Next + FastAPI applications
 - 🔐 Working with JWT, OAuth, REST APIs, PostgreSQL & MongoDB
 - 🌱 Currently learning Docker, Cloud Deployment and System Design
 - 🎯 Looking for Software Engineer, AI Engineer and Full Stack roles
@@ -44,15 +44,27 @@ AI • Full Stack • FastAPI • React • Python
 
 # 💼 Experience
 
+## MERN Stack Intern — Dafi Labs *(Remote)*
+
+**Jul 2026 – August 2026**
+
+- Building full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js)
+- Collaborating with mentors and fellow interns in an agile remote environment
+- Developing responsive user interfaces and RESTful backend APIs
+- Working with Git and GitHub for version control and team collaboration
+- Strengthening practical skills in full-stack development through real-world projects
+
+---
+
 ## Software Development Intern — Rhombix Technologies *(Remote)*
 
 **Aug 2025 – Oct 2025**
 
-- Developed web applications
-- Integrated REST APIs
-- Debugged production issues
-- Collaborated using Git workflows
-- Participated in testing and code reviews
+- Developed and maintained full-stack web applications
+- Integrated RESTful APIs and implemented new application features
+- Debugged production issues and improved application stability
+- Collaborated with the development team using Git and GitHub workflows
+- Participated in testing, code reviews, and software development best practices
 
 ---
 
