@@ -3,7 +3,7 @@ Hi 👋, I'm Hanzla Sohaib
 </h1>
 
 <h3 align="center">
-AI • Full Stack • FastAPI • React • Python
+AI • Full Stack • FastAPI • Next • Python
 </h3>
 
 <p align="center">
