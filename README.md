@@ -8,7 +8,7 @@ AI • Full Stack • FastAPI • Next • Python
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=08FDD8&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=08FDD8&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Engineer;Building+Intelligent+Applications;Always+Learning+New+Technologies"
     alt="Typing SVG"
   />
 </p>
